@@ -1,0 +1,702 @@
+[
+  {
+    "year": 2022,
+    "quarter": "Q2",
+    "manufacturer": "Bajaj",
+    "vehicleType": "3W",
+    "vehicles": 27153
+  },
+  {
+    "year": 2021,
+    "quarter": "Q4",
+    "manufacturer": "Ford",
+    "vehicleType": "2W",
+    "vehicles": 13076
+  },
+  {
+    "year": 2023,
+    "quarter": "Q4",
+    "manufacturer": "Maruti",
+    "vehicleType": "2W",
+    "vehicles": 23004
+  },
+  {
+    "year": 2019,
+    "quarter": "Q1",
+    "manufacturer": "Mahindra",
+    "vehicleType": "2W",
+    "vehicles": 25629
+  },
+  {
+    "year": 2023,
+    "quarter": "Q4",
+    "manufacturer": "Honda",
+    "vehicleType": "4W",
+    "vehicles": 24963
+  },
+  {
+    "year": 2022,
+    "quarter": "Q3",
+    "manufacturer": "Hyundai",
+    "vehicleType": "2W",
+    "vehicles": 27455
+  },
+  {
+    "year": 2022,
+    "quarter": "Q2",
+    "manufacturer": "Maruti",
+    "vehicleType": "2W",
+    "vehicles": 11335
+  },
+  {
+    "year": 2018,
+    "quarter": "Q3",
+    "manufacturer": "Maruti",
+    "vehicleType": "2W",
+    "vehicles": 17884
+  },
+  {
+    "year": 2019,
+    "quarter": "Q2",
+    "manufacturer": "Hero",
+    "vehicleType": "2W",
+    "vehicles": 2561
+  },
+  {
+    "year": 2020,
+    "quarter": "Q2",
+    "manufacturer": "Hero",
+    "vehicleType": "3W",
+    "vehicles": 9989
+  },
+  {
+    "year": 2019,
+    "quarter": "Q3",
+    "manufacturer": "Honda",
+    "vehicleType": "3W",
+    "vehicles": 27417
+  },
+  {
+    "year": 2019,
+    "quarter": "Q4",
+    "manufacturer": "Ford",
+    "vehicleType": "2W",
+    "vehicles": 25905
+  },
+  {
+    "year": 2018,
+    "quarter": "Q4",
+    "manufacturer": "Mahindra",
+    "vehicleType": "3W",
+    "vehicles": 21830
+  },
+  {
+    "year": 2020,
+    "quarter": "Q3",
+    "manufacturer": "Hyundai",
+    "vehicleType": "4W",
+    "vehicles": 28209
+  },
+  {
+    "year": 2018,
+    "quarter": "Q2",
+    "manufacturer": "Honda",
+    "vehicleType": "2W",
+    "vehicles": 7528
+  },
+  {
+    "year": 2021,
+    "quarter": "Q1",
+    "manufacturer": "Maruti",
+    "vehicleType": "3W",
+    "vehicles": 25891
+  },
+  {
+    "year": 2023,
+    "quarter": "Q4",
+    "manufacturer": "Hyundai",
+    "vehicleType": "4W",
+    "vehicles": 3052
+  },
+  {
+    "year": 2021,
+    "quarter": "Q3",
+    "manufacturer": "Maruti",
+    "vehicleType": "2W",
+    "vehicles": 1618
+  },
+  {
+    "year": 2023,
+    "quarter": "Q4",
+    "manufacturer": "Tata",
+    "vehicleType": "2W",
+    "vehicles": 18479
+  },
+  {
+    "year": 2018,
+    "quarter": "Q3",
+    "manufacturer": "Mahindra",
+    "vehicleType": "2W",
+    "vehicles": 8444
+  },
+  {
+    "year": 2018,
+    "quarter": "Q4",
+    "manufacturer": "Toyota",
+    "vehicleType": "2W",
+    "vehicles": 16093
+  },
+  {
+    "year": 2021,
+    "quarter": "Q4",
+    "manufacturer": "Honda",
+    "vehicleType": "4W",
+    "vehicles": 6446
+  },
+  {
+    "year": 2019,
+    "quarter": "Q2",
+    "manufacturer": "Hero",
+    "vehicleType": "2W",
+    "vehicles": 18091
+  },
+  {
+    "year": 2022,
+    "quarter": "Q4",
+    "manufacturer": "Maruti",
+    "vehicleType": "3W",
+    "vehicles": 1276
+  },
+  {
+    "year": 2022,
+    "quarter": "Q4",
+    "manufacturer": "KTM",
+    "vehicleType": "3W",
+    "vehicles": 28790
+  },
+  {
+    "year": 2021,
+    "quarter": "Q3",
+    "manufacturer": "Mahindra",
+    "vehicleType": "3W",
+    "vehicles": 2415
+  },
+  {
+    "year": 2023,
+    "quarter": "Q1",
+    "manufacturer": "Maruti",
+    "vehicleType": "2W",
+    "vehicles": 15243
+  },
+  {
+    "year": 2023,
+    "quarter": "Q1",
+    "manufacturer": "KTM",
+    "vehicleType": "4W",
+    "vehicles": 21444
+  },
+  {
+    "year": 2023,
+    "quarter": "Q3",
+    "manufacturer": "Mahindra",
+    "vehicleType": "4W",
+    "vehicles": 6797
+  },
+  {
+    "year": 2021,
+    "quarter": "Q1",
+    "manufacturer": "KTM",
+    "vehicleType": "4W",
+    "vehicles": 22347
+  },
+  {
+    "year": 2021,
+    "quarter": "Q4",
+    "manufacturer": "Mahindra",
+    "vehicleType": "4W",
+    "vehicles": 8185
+  },
+  {
+    "year": 2019,
+    "quarter": "Q4",
+    "manufacturer": "KTM",
+    "vehicleType": "4W",
+    "vehicles": 15362
+  },
+  {
+    "year": 2018,
+    "quarter": "Q2",
+    "manufacturer": "Bajaj",
+    "vehicleType": "4W",
+    "vehicles": 22764
+  },
+  {
+    "year": 2022,
+    "quarter": "Q4",
+    "manufacturer": "Honda",
+    "vehicleType": "2W",
+    "vehicles": 19124
+  },
+  {
+    "year": 2022,
+    "quarter": "Q2",
+    "manufacturer": "Hyundai",
+    "vehicleType": "4W",
+    "vehicles": 13847
+  },
+  {
+    "year": 2022,
+    "quarter": "Q4",
+    "manufacturer": "Hyundai",
+    "vehicleType": "2W",
+    "vehicles": 2391
+  },
+  {
+    "year": 2021,
+    "quarter": "Q2",
+    "manufacturer": "Toyota",
+    "vehicleType": "4W",
+    "vehicles": 13000
+  },
+  {
+    "year": 2020,
+    "quarter": "Q4",
+    "manufacturer": "Hero",
+    "vehicleType": "2W",
+    "vehicles": 16917
+  },
+  {
+    "year": 2022,
+    "quarter": "Q1",
+    "manufacturer": "Ford",
+    "vehicleType": "2W",
+    "vehicles": 16046
+  },
+  {
+    "year": 2020,
+    "quarter": "Q2",
+    "manufacturer": "Toyota",
+    "vehicleType": "3W",
+    "vehicles": 27380
+  },
+  {
+    "year": 2023,
+    "quarter": "Q3",
+    "manufacturer": "Hero",
+    "vehicleType": "2W",
+    "vehicles": 13994
+  },
+  {
+    "year": 2022,
+    "quarter": "Q3",
+    "manufacturer": "Tata",
+    "vehicleType": "3W",
+    "vehicles": 1428
+  },
+  {
+    "year": 2019,
+    "quarter": "Q2",
+    "manufacturer": "Tata",
+    "vehicleType": "4W",
+    "vehicles": 23746
+  },
+  {
+    "year": 2023,
+    "quarter": "Q1",
+    "manufacturer": "Bajaj",
+    "vehicleType": "3W",
+    "vehicles": 15647
+  },
+  {
+    "year": 2020,
+    "quarter": "Q3",
+    "manufacturer": "Hyundai",
+    "vehicleType": "4W",
+    "vehicles": 19783
+  },
+  {
+    "year": 2022,
+    "quarter": "Q4",
+    "manufacturer": "Ford",
+    "vehicleType": "4W",
+    "vehicles": 16371
+  },
+  {
+    "year": 2023,
+    "quarter": "Q1",
+    "manufacturer": "KTM",
+    "vehicleType": "2W",
+    "vehicles": 18118
+  },
+  {
+    "year": 2022,
+    "quarter": "Q3",
+    "manufacturer": "Mahindra",
+    "vehicleType": "4W",
+    "vehicles": 19885
+  },
+  {
+    "year": 2020,
+    "quarter": "Q3",
+    "manufacturer": "Tata",
+    "vehicleType": "4W",
+    "vehicles": 4905
+  },
+  {
+    "year": 2018,
+    "quarter": "Q4",
+    "manufacturer": "Honda",
+    "vehicleType": "2W",
+    "vehicles": 16688
+  },
+  {
+    "year": 2023,
+    "quarter": "Q4",
+    "manufacturer": "Ford",
+    "vehicleType": "2W",
+    "vehicles": 17933
+  },
+  {
+    "year": 2018,
+    "quarter": "Q1",
+    "manufacturer": "Ford",
+    "vehicleType": "3W",
+    "vehicles": 2337
+  },
+  {
+    "year": 2023,
+    "quarter": "Q4",
+    "manufacturer": "KTM",
+    "vehicleType": "2W",
+    "vehicles": 10254
+  },
+  {
+    "year": 2018,
+    "quarter": "Q1",
+    "manufacturer": "Ford",
+    "vehicleType": "2W",
+    "vehicles": 16425
+  },
+  {
+    "year": 2023,
+    "quarter": "Q2",
+    "manufacturer": "Mahindra",
+    "vehicleType": "3W",
+    "vehicles": 19435
+  },
+  {
+    "year": 2022,
+    "quarter": "Q3",
+    "manufacturer": "Maruti",
+    "vehicleType": "3W",
+    "vehicles": 2811
+  },
+  {
+    "year": 2022,
+    "quarter": "Q4",
+    "manufacturer": "Bajaj",
+    "vehicleType": "3W",
+    "vehicles": 17539
+  },
+  {
+    "year": 2019,
+    "quarter": "Q3",
+    "manufacturer": "Ford",
+    "vehicleType": "2W",
+    "vehicles": 2072
+  },
+  {
+    "year": 2022,
+    "quarter": "Q4",
+    "manufacturer": "Ford",
+    "vehicleType": "3W",
+    "vehicles": 19554
+  },
+  {
+    "year": 2020,
+    "quarter": "Q3",
+    "manufacturer": "Toyota",
+    "vehicleType": "4W",
+    "vehicles": 12115
+  },
+  {
+    "year": 2019,
+    "quarter": "Q2",
+    "manufacturer": "Tata",
+    "vehicleType": "4W",
+    "vehicles": 6700
+  },
+  {
+    "year": 2018,
+    "quarter": "Q1",
+    "manufacturer": "Hyundai",
+    "vehicleType": "4W",
+    "vehicles": 21487
+  },
+  {
+    "year": 2018,
+    "quarter": "Q4",
+    "manufacturer": "Honda",
+    "vehicleType": "4W",
+    "vehicles": 27274
+  },
+  {
+    "year": 2022,
+    "quarter": "Q3",
+    "manufacturer": "Ford",
+    "vehicleType": "4W",
+    "vehicles": 13240
+  },
+  {
+    "year": 2018,
+    "quarter": "Q4",
+    "manufacturer": "Tata",
+    "vehicleType": "2W",
+    "vehicles": 17780
+  },
+  {
+    "year": 2020,
+    "quarter": "Q1",
+    "manufacturer": "Mahindra",
+    "vehicleType": "2W",
+    "vehicles": 22886
+  },
+  {
+    "year": 2019,
+    "quarter": "Q3",
+    "manufacturer": "KTM",
+    "vehicleType": "3W",
+    "vehicles": 22123
+  },
+  {
+    "year": 2021,
+    "quarter": "Q1",
+    "manufacturer": "Maruti",
+    "vehicleType": "4W",
+    "vehicles": 15444
+  },
+  {
+    "year": 2019,
+    "quarter": "Q3",
+    "manufacturer": "Hero",
+    "vehicleType": "2W",
+    "vehicles": 5989
+  },
+  {
+    "year": 2023,
+    "quarter": "Q1",
+    "manufacturer": "Hero",
+    "vehicleType": "2W",
+    "vehicles": 24271
+  },
+  {
+    "year": 2022,
+    "quarter": "Q1",
+    "manufacturer": "Hyundai",
+    "vehicleType": "2W",
+    "vehicles": 22827
+  },
+  {
+    "year": 2023,
+    "quarter": "Q1",
+    "manufacturer": "Hero",
+    "vehicleType": "2W",
+    "vehicles": 22939
+  },
+  {
+    "year": 2021,
+    "quarter": "Q2",
+    "manufacturer": "KTM",
+    "vehicleType": "4W",
+    "vehicles": 9302
+  },
+  {
+    "year": 2019,
+    "quarter": "Q4",
+    "manufacturer": "Hyundai",
+    "vehicleType": "4W",
+    "vehicles": 16294
+  },
+  {
+    "year": 2022,
+    "quarter": "Q1",
+    "manufacturer": "Hyundai",
+    "vehicleType": "4W",
+    "vehicles": 28373
+  },
+  {
+    "year": 2019,
+    "quarter": "Q1",
+    "manufacturer": "Maruti",
+    "vehicleType": "3W",
+    "vehicles": 2370
+  },
+  {
+    "year": 2023,
+    "quarter": "Q1",
+    "manufacturer": "Mahindra",
+    "vehicleType": "3W",
+    "vehicles": 25119
+  },
+  {
+    "year": 2018,
+    "quarter": "Q1",
+    "manufacturer": "Maruti",
+    "vehicleType": "3W",
+    "vehicles": 8099
+  },
+  {
+    "year": 2020,
+    "quarter": "Q1",
+    "manufacturer": "Ford",
+    "vehicleType": "4W",
+    "vehicles": 6077
+  },
+  {
+    "year": 2019,
+    "quarter": "Q4",
+    "manufacturer": "Toyota",
+    "vehicleType": "2W",
+    "vehicles": 9779
+  },
+  {
+    "year": 2021,
+    "quarter": "Q3",
+    "manufacturer": "Toyota",
+    "vehicleType": "2W",
+    "vehicles": 25071
+  },
+  {
+    "year": 2018,
+    "quarter": "Q1",
+    "manufacturer": "KTM",
+    "vehicleType": "2W",
+    "vehicles": 8957
+  },
+  {
+    "year": 2022,
+    "quarter": "Q1",
+    "manufacturer": "KTM",
+    "vehicleType": "2W",
+    "vehicles": 4889
+  },
+  {
+    "year": 2022,
+    "quarter": "Q2",
+    "manufacturer": "Tata",
+    "vehicleType": "3W",
+    "vehicles": 21599
+  },
+  {
+    "year": 2023,
+    "quarter": "Q4",
+    "manufacturer": "Tata",
+    "vehicleType": "4W",
+    "vehicles": 17148
+  },
+  {
+    "year": 2023,
+    "quarter": "Q2",
+    "manufacturer": "Maruti",
+    "vehicleType": "4W",
+    "vehicles": 21605
+  },
+  {
+    "year": 2022,
+    "quarter": "Q4",
+    "manufacturer": "KTM",
+    "vehicleType": "2W",
+    "vehicles": 29361
+  },
+  {
+    "year": 2023,
+    "quarter": "Q2",
+    "manufacturer": "Maruti",
+    "vehicleType": "3W",
+    "vehicles": 16449
+  },
+  {
+    "year": 2019,
+    "quarter": "Q1",
+    "manufacturer": "Hero",
+    "vehicleType": "2W",
+    "vehicles": 29972
+  },
+  {
+    "year": 2022,
+    "quarter": "Q1",
+    "manufacturer": "Ford",
+    "vehicleType": "2W",
+    "vehicles": 21650
+  },
+  {
+    "year": 2018,
+    "quarter": "Q4",
+    "manufacturer": "Bajaj",
+    "vehicleType": "4W",
+    "vehicles": 5031
+  },
+  {
+    "year": 2019,
+    "quarter": "Q2",
+    "manufacturer": "Hyundai",
+    "vehicleType": "2W",
+    "vehicles": 1866
+  },
+  {
+    "year": 2022,
+    "quarter": "Q3",
+    "manufacturer": "Toyota",
+    "vehicleType": "3W",
+    "vehicles": 27739
+  },
+  {
+    "year": 2018,
+    "quarter": "Q1",
+    "manufacturer": "Bajaj",
+    "vehicleType": "4W",
+    "vehicles": 6571
+  },
+  {
+    "year": 2018,
+    "quarter": "Q3",
+    "manufacturer": "Toyota",
+    "vehicleType": "4W",
+    "vehicles": 16020
+  },
+  {
+    "year": 2019,
+    "quarter": "Q4",
+    "manufacturer": "Bajaj",
+    "vehicleType": "2W",
+    "vehicles": 2404
+  },
+  {
+    "year": 2022,
+    "quarter": "Q3",
+    "manufacturer": "KTM",
+    "vehicleType": "3W",
+    "vehicles": 19367
+  },
+  {
+    "year": 2023,
+    "quarter": "Q2",
+    "manufacturer": "Tata",
+    "vehicleType": "3W",
+    "vehicles": 28660
+  },
+  {
+    "year": 2023,
+    "quarter": "Q3",
+    "manufacturer": "Toyota",
+    "vehicleType": "4W",
+    "vehicles": 3974
+  },
+  {
+    "year": 2021,
+    "quarter": "Q1",
+    "manufacturer": "Mahindra",
+    "vehicleType": "2W",
+    "vehicles": 2180
+  }
+]
